@@ -1,9 +1,14 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Ruby on rails de zéro à superman"
 date:   2024-01-04 01:03:25 +0000
 categories: jekyll update
 ---
+Vous êtes impatient de vous aventurer dans le monde du développement web et
+vous recherchez une base solide en Ruby on Rails ? Apprendre un nouveau
+langage de programmation et un framework peut être une tâche intimidante,
+surtout sans le bon accompagnement.
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:
